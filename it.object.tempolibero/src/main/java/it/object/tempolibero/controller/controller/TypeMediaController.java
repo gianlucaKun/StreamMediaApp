@@ -1,5 +1,0 @@
-package it.object.tempolibero.controller;
-
-public class TypeMediaController {
-
-}
