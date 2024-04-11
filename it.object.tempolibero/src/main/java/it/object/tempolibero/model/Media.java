@@ -40,6 +40,7 @@ public class Media {
 	private Time duration;
 	
 	private String title;
+	private String nomeAllaCazzoDiCane;
 	
 	@ManyToOne
 	@JoinColumn(name = "idUser")
